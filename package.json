@@ -1,0 +1,14 @@
+{
+  "name": "MVC-Express-Application",
+  "description": "An Express.js application using the MVC design pattern...",
+  "version": "0.0.1",
+  "main":"app.js",
+  "author": "Sivakumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "4.4.4",
+    "express-handlebars": "1.1.0",
+    "mongoose": "^4.9.6"
+  }
+}
